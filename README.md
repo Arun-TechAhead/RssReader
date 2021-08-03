@@ -1,4 +1,4 @@
-# flutter_weather
+# flutter_rss_reader
 
 A new Flutter project.
 
